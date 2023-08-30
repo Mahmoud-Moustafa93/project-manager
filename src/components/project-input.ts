@@ -47,7 +47,7 @@ export class ProjectInput extends Component<HTMLDivElement, HTMLFormElement> {
       value: +enteredPeople,
       required: true,
       min: 1,
-      max: 5,
+      max: 10,
     };
 
     if (

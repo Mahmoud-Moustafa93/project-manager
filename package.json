@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve",
     "build": "webpack --config webpack.config.prod.js",
-    "babel": "babel dist/bundle-beta.js --out-file dist/bundle.js --presets=@babel/preset-env",
+    "babel": "babel dist/bundle-beta-min.js --out-file dist/bundle.js --presets=@babel/preset-env",
     "babel-minify": "minify dist/bundle.js --out-file dist/bundle-min.js --mangle.keepClassName"
   },
   "keywords": [
