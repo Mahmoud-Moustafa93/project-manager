@@ -1,6 +1,6 @@
 # Project Manager Web Application
 
-A web application to organize and manage personal projects or tasts.
+A web application to organize and manage personal tasks or projects.
 
 The application is created using:
 
